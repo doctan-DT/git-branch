@@ -1,3 +1,7 @@
+body{
+    background-color: cadetblue;
+}
+
 .container {
     width: 1148px;
     margin: 0 auto;
